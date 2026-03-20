@@ -1,4 +1,3 @@
-# ABOUT-ME
 <h1 align="center">Hi 👋, I'm Esha</h1>
 <h3 align="center">💖 Full Stack Developer | AI/ML Enthusiast 🚀</h3>
 
