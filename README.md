@@ -110,8 +110,11 @@
         “The impediment to action advances action. What stands in the way becomes the way.” — <b>Marcus Aurelius</b>
       </blockquote>
     </td>
-    <td width="30%" align="right">
-      <img src="<img width="660" height="666" alt="image" src="https://github.com/user-attachments/assets/99d5f022-2532-4081-afd1-a9462c59f030" />" width="220" style="border-radius: 15px;"/>
+    <td width="30%" align="right" style="vertical-align: middle;">
+      <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" 
+           width="220" 
+           style="border-radius: 15px;" 
+           alt="Coding GIF" />
     </td>
   </tr>
 </table>
