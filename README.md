@@ -141,9 +141,9 @@
         contribute to scalable systems and AI-driven solutions. 
       </p>
     </td>
-    <td width="50%" align="center" style="vertical-align: middle;">
-      <b style="color: #F8A5C2;">🐍 Contribution Garden</b><br/><br/>
-      <img src="https://raw.githubusercontent.com/codewithesha2002-design/codewithesha2002-design/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+    <td width="80%" align="left" style="vertical-align: left;">
+      <b style="color: #F8A5C2;"></b><br/><br/>
+      <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" alt=" Animation" />
     </td>
   </tr>
 </table>
