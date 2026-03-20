@@ -208,7 +208,7 @@
   </tr>
 </table>
 
-<p align="right" style="font-family: monospace; letter-spacing: 2px;">
+<p align="center" style="font-family: monospace; letter-spacing: 2px;">
   ─── ⋆⋅☆⋅⋆ <b>THANK YOU FOR YOUR TIME</b> ⋆⋅☆⋅⋆ ───
 </p>
 
