@@ -37,13 +37,11 @@
 --
 <div align="center">
   <br />
-  <blockquote style="border-radius: 12px; border-left: 10px solid #FFD700; background-color: #0d1117; padding: 25px; border-right: 1px solid #30363d; border-top: 1px solid #30363d; border-bottom: 1px solid #30363d;">
-    <p style="font-family: 'Fira Code', 'Cascadia Code', 'Consolas', monospace; font-size: 1.5rem; color: #FFD700; margin: 0; text-shadow: 0 0 10px rgba(255, 215, 0, 0.4);">
       <b>"Turning complex logic into simple, impactful solutions."</b>
     </p>
   </blockquote>
   <br />
-</div>>
+</div>
 ---
 
 ## 💎 Tech Stack
