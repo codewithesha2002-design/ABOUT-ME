@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Esha</h1>
-<h3 align="center">💻 Full Stack Developer | 🤖 AI/ML Explorer</h3>
+<h3 align="center">💻 Full Stack Developer | 🤖 AI/ML Explore</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F78DA7&center=true&vCenter=true&lines=Building+Real+World+Projects;Full+Stack+Developer;AI+%2F+ML+Learner;Open+to+Internships" />
