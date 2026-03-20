@@ -82,14 +82,24 @@
 
 ## 📊 Performance & Contributions
 
+---
+
+## 📊 My Development Dashboard
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithesha2002-design&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithesha2002-design&show_icons=true&theme=transparent&title_color=F8A5C2&icon_color=F8A5C2&text_color=ffffff&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithesha2002-design&layout=compact&theme=transparent&title_color=F8A5C2&text_color=ffffff&bg_color=0d1117&langs_count=8" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithesha2002-design&theme=github-compact" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithesha2002-design&theme=transparent&fire=F8A5C2&ring=F8A5C2&currStreakLabel=F8A5C2" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithesha2002-design&theme=github-compact&color=F8A5C2&bg_color=0d1117&hide_border=true" width="100%" />
+</p>
+
+---
 <h3 align="center">🐍 Contribution Flow</h3>
 <p align="center">
   <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzQwMjk5MDgsIm5iZiI6MTc3NDAyOTYwOCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzIwVDE4MDAwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTUwYTdkNDI1NjNiNTZhMGZjMmFlZmVkZGNiMjk2ZjQxYzYzMWUxODNlZDU0NGFhMWVkMGJjNzIzY2U5ZmUwNGEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.cJYfvwurJdMhBqYQXl-F_tKy3Us462J4jK-bD1j5GYo" alt="hello world" />
