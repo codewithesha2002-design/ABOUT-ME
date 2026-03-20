@@ -19,7 +19,7 @@
 🌱 Learning Go & backend scalability to move beyond basic CRUD <br/><br/>
 
 💬 Ask me about React, Node.js, MySQL, APIs <br/>
-⚡ Fun fact: I turn ☕ into clean, working </code>
+⚡ Fun fact: I turn ☕ into clean, working code
 </p>
 
 ---
@@ -41,18 +41,19 @@
 </div>
 
 ---
----
 
-## 🐍 Contribution Flow
+## 🚀 Featured Projects
 
 <p align="center">
-  <p> THANK YOU FOR YOUR TIME AND VISIT</p>    <td width="50%" align="left">
+<a href="https://codewithesha2002-design.github.io/LOTUS-Hotel/">
+  <img src="https://via.placeholder.com/400x200/FADADD/000000?text=🏨+Lotus+Hotel+Website" />
+</a>
 
-  <img src="https://octodex.github.com/images/puddle_jumper_octodex.jpg" alt="hooo..." />    <td width="#" align="right">
-
+<a href="https://tipsprediction-codewithesha2002-design.streamlit.app/">
+  <img src="https://via.placeholder.com/400x200/FFC0CB/000000?text=🤖+Tip+Prediction+App+(AI%2FML)" />
+</a>
 </p>
 
----
 ---
 
 ## 🌐 Connect With Me
@@ -87,38 +88,60 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithesha2002-design&theme=github-compact" />
 </p>
 
+<h3 align="center">🐍 Contribution Flow</h3>
 <p align="center">
-<img src="https://github.com/codewithesha2002-design/codewithesha2002-design/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/codewithesha2002-design/codewithesha2002-design/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
 
-## 🐱 Coding Companion
+## 🐱 Coding Companion & Mindset
 
-<table>
+<table align="center" width="100%" style="border-collapse: collapse;">
   <tr>
-    <td width="70%">
+    <td width="70%" style="vertical-align: top;">
       <p>
-      I approach my work with a strong sense of ownership and a mindset focused on continuous improvement. For me, writing code is not just about making things work, but about building solutions that are efficient, scalable, and meaningful.
-
-  I value consistency, clean code, and continuous learning. I see challenges as opportunities to grow and I’m always open to feedback and improvement.
+      I approach my work with a strong sense of ownership and a focus on continuous improvement. For me, writing code is about building solutions that are efficient, scalable, and meaningful.
       </p>
+      <p>
+      I value consistency, clean code, and resilience. I see challenges as opportunities to grow and I’m always open to feedback.
+      </p>
+      <blockquote>
+        “The impediment to action advances action. What stands in the way becomes the way.” — <b>Marcus Aurelius</b>
+      </blockquote>
     </td>
     <td width="30%" align="right">
-      <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250"/>
+      <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220" style="border-radius: 15px;"/>
     </td>
   </tr>
 </table>
 
 ---
 
-## ✨ Mindset
+<table align="center" width="100%" style="border-collapse: collapse;">
+  <tr>
+    <td width="60%" style="vertical-align: middle;">
+      <h2 style="color: #F8A5C2; font-family: sans-serif; margin-bottom: 10px;">
+        ✨ Let's Build the Future
+      </h2>
+      <p style="font-size: 1.1rem; line-height: 1.6; font-family: sans-serif;">
+        Thank you for visiting my digital garden! <br />
+        I am currently looking for <b>internship opportunities</b> where I can 
+        contribute to scalable systems and AI-driven solutions. 
+      </p>
+    </td>
+    <td width="40%" align="right">
+      <img src="https://octodex.github.com/grim-repo/" 
+           alt="Octocat Puddle Jumper" 
+           width="200" 
+           style="border-radius: 20px; border: 2px solid #F8A5C2;" />
+    </td>
+  </tr>
+</table>
 
-> “The impediment to action advances action. What stands in the way becomes the way.” — **Marcus Aurelius**
-
-💼 **Open for Internship Opportunities** 
-🚀 **Always Learning, Always Improving**
-💖 **Building with Purpose & Grit** ---
+<p align="center" style="font-family: monospace; letter-spacing: 2px; margin-top: 20px;">
+  ─── ⋆⋅☆⋅⋆ <b>THANK YOU FOR YOUR TIME</b> ⋆⋅☆⋅⋆ ───
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F8A5C2&height=100&section=footer"/>
