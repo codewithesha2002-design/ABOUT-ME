@@ -80,10 +80,7 @@
 
 ---
 
-## 📊 Performance & Contributions
----
-
-## 📊 Developer Dashboard
+##📊 Performance & Contributions
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
