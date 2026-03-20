@@ -117,7 +117,6 @@
 </table>
 
 ---
-
 <table align="center" width="100%" style="border-collapse: collapse;">
   <tr>
     <td width="60%" style="vertical-align: middle;">
@@ -131,16 +130,21 @@
       </p>
     </td>
     <td width="40%" align="right">
-      <img src="https://octodex.github.com/grim-repo/" 
-           alt="Octocat Puddle Jumper" 
-           width="200" 
+      <img src="https://octodex.github.com/images/grim-repo.jpg" 
+           alt="Grim Repo Octocat" 
+           width="180" 
            style="border-radius: 20px; border: 2px solid #F8A5C2;" />
     </td>
   </tr>
 </table>
-<p align="left">
-  <img src="<img width="896" height="896" alt="image" src="https://github.com/user-attachments/assets/a7d98d1d-e97c-4616-9775-b54903fd670b"/>" &height=100&section=footer"/>
-<p align="right" style="font-family: monospace; letter-spacing: 2px; margin-top: 20px;">
-  ─── ⋆⋅☆⋅⋆ <b>THANK YOU FOR YOUR TIME</b> ⋆⋅☆⋅⋆ ───
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a7d98d1d-e97c-4616-9775-b54903fd670b" 
+       width="100%" 
+       style="max-width: 896px; height: auto; border-radius: 10px;" 
+       alt="Footer Banner" />
 </p>
+
+<p align="right" style="font-family: monospace; letter-spacing: 2px; margin-top: 10px;">
+  ─── ⋆⋅☆⋅⋆ <b>THANK YOU FOR YOUR TIME</b> ⋆⋅☆⋅⋆ ───
 </p>
