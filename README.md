@@ -144,5 +144,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F8A5C2&height=100&section=footer"/>
+  <img src="<img width="896" height="896" alt="image" src="https://github.com/user-attachments/assets/a7d98d1d-e97c-4616-9775-b54903fd670b" />" &height=100&section=footer"/>
 </p>
