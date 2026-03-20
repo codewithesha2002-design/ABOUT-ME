@@ -24,9 +24,6 @@
         🤖 <b>AI/ML:</b> Integrating predictive features into daily tools. <br/>
         🌱 <b>Current Focus:</b> Mastering Concurrency and Backend Scalability.
       </p>
-      <blockquote style="border-left: 4px solid #F8A5C2; padding-left: 15px; font-style: italic; color: #8b949e;">
-        "Turning complex logic into simple, impactful solutions."
-      </blockquote>
     </td>
 
   <td width="35%" align="right" style="vertical-align: middle;">
