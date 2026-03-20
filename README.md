@@ -12,26 +12,35 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F8A5C2&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello+World!%22);I'm+Esha+--+The+Problem+Solver;Building+Scalable+Architectures;Exploring+AI+Integrations" alt="Typing Intro" />
 </h2>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header&text=Turning%20Complex%20Logic%20into%20Simple%20Solutions&fontSize=20&fontColor=F8A5C2" width="100%" />
-</p>
-
-<table align="center" style="border-collapse: collapse; border: none;">
+<table align="center" width="100%" style="border-collapse: collapse; border: none;">
   <tr>
-    <td style="padding: 20px; background-color: #0d1117; border-radius: 15px; border: 1px solid #30363d;">
-      <p align="left" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-        🚀 <b>The Mission:</b> I don't just write CRUD apps. I'm a <b>Software Engineering student</b> obsessed with the "Why" behind the code. Whether it's optimizing a <b>Go-based backend</b> or training a <b>Predictive ML model</b>, my goal is to build systems that actually <i>matter</i>.
-        <br/><br/>
-        🛠️ <b>The Strategy:</b> 
-        • <b>Full-Stack:</b> Building React/Node.js apps that don't just work, but scale. <br/>
-        • <b>AI/ML:</b> Moving beyond data sets to real-world predictive features. <br/>
-        • <b>Scalability:</b> Currently deep-diving into <b>Go</b> to master concurrency and high-load systems.
-        <br/><br/>
-        💬 <b>Brainstorm with me:</b> Let's talk about <b>Microservices</b>, <b>Neural Networks</b>, or how to turn <b>☕</b> into <b>Clean Code</b>.
+    <td width="65%" style="vertical-align: top; padding-right: 20px;">
+      <h2 style="color: #F8A5C2; font-family: sans-serif;">👋 Hey there! I'm Esha</h2>
+      <p style="font-size: 1.1rem; line-height: 1.6; font-family: sans-serif;">
+        🚀 <b>The Mission:</b> I am a Software Engineering student dedicated to building systems that solve real-world problems. From architecting <b>Go-based backends</b> to exploring the frontiers of <b>AI/ML</b>, I thrive at the intersection of logic and creativity.
       </p>
+      <p style="font-size: 1.05rem; line-height: 1.6; font-family: sans-serif;">
+        💻 <b>Full-Stack:</b> Building React/Node.js apps that scale. <br/>
+        🤖 <b>AI/ML:</b> Integrating predictive features into daily tools. <br/>
+        🌱 <b>Current Focus:</b> Mastering Concurrency and Backend Scalability.
+      </p>
+      <blockquote style="border-left: 4px solid #F8A5C2; padding-left: 15px; font-style: italic; color: #8b949e;">
+        "Turning complex logic into simple, impactful solutions."
+      </blockquote>
+    </td>
+
+  <td width="35%" align="right" style="vertical-align: middle;">
+      <img src="https://i.pinimg.com/736x/63/80/63/63806371551213363545014b064ae189.jpg" 
+           width="100%" 
+           style="max-width: 320px; border-radius: 20px; border: 2px solid #F8A5C2; box-shadow: 0 4px 15px rgba(248, 165, 194, 0.3);" 
+           alt="Esha Profile Visual" />
     </td>
   </tr>
 </table>
+--
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
