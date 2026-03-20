@@ -41,19 +41,48 @@
 </div>
 
 ---
+---
 
-## 🚀 Featured Projects
+## 🐍 Contribution Flow
 
 <p align="center">
-<a href="https://codewithesha2002-design.github.io/LOTUS-Hotel/">
-  <img src="https://via.placeholder.com/400x200/FADADD/000000?text=🏨+Lotus+Hotel+Website" />
-</a>
-
-<a href="https://tipsprediction-codewithesha2002-design.streamlit.app/">
-  <img src="https://via.placeholder.com/400x200/FFC0CB/000000?text=🤖+Tip+Prediction+App+(AI%2FML)" />
-</a>
+  <img src="https://raw.githubusercontent.com/codewithesha2002-design/codewithesha2002-design/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
+name: Generate Snake
 
+on:
+  schedule:
+    # Runs every 24 hours
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+    - main
+
+ jobs:
+  generate:
+    permissions: 
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
+   steps:
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+   - name: push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+---
 ---
 
 ## 🌐 Connect With Me
