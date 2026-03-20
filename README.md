@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Esha</h1>
-<h3 align="center">💻 Full Stack Developer | 🤖 AI/ML Explorer | 🚀 Future Builder</h3>
+<h3 align="center">💻 Full Stack Developer | 🤖 AI/ML Explorer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F78DA7&center=true&vCenter=true&lines=Building+Real+World+Projects;Full+Stack+Developer;AI+%2F+ML+Learner;Open+to+Internships" />
@@ -7,16 +7,20 @@
 
 ---
 
-## 🌸 About Me
+<h2 align="center">👋 Hey there! I'm Esha</h2>
 
 <p align="center">
-  <img src="assets/profile.png" width="150"/>
-</p>
+🎓 Software Engineering Student passionate about building real-world systems <br/><br/>
 
-✨ I build **clean, functional & aesthetic web apps**  
-💡 Passionate about **Full Stack Development & AI/ML**  
-🚀 Currently learning **Go & scalable backend systems**  
-🎯 Focused on **real-world impactful projects**
+💻 Full-Stack Developer focused on scalable web applications <br/>
+🤖 Exploring AI/ML through practical, problem-solving projects <br/><br/>
+
+🚀 Currently building Healthcare, AI & Web Platforms <br/>
+🌱 Learning Go & backend scalability to move beyond basic CRUD <br/><br/>
+
+💬 Ask me about React, Node.js, MySQL, APIs <br/>
+⚡ Fun fact: I turn ☕ into clean, working code
+</p>
 
 ---
 
@@ -32,15 +36,11 @@
 
 <p align="center">
 
-<a href="https://github.com/codewithesha2002-design/HEALTHCARE-APPOINTMENT-APP">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithesha2002-design&repo=HEALTHCARE-APPOINTMENT-APP&theme=transparent" />
-</a>
-
-<a href="#">
+<a href="https://codewithesha2002-design.github.io/LOTUS-Hotel/">
   <img src="https://via.placeholder.com/400x200/FADADD/000000?text=🏨+Lotus+Hotel+Website" />
 </a>
 
-<a href="#">
+<a href="https://tipsprediction-codewithesha2002-design.streamlit.app/">
   <img src="https://via.placeholder.com/400x200/FFC0CB/000000?text=🤖+Tip+Prediction+App+(AI%2FML)" />
 </a>
 
@@ -51,27 +51,52 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://github.com/codewithesha2002-design">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
-</a>
-<a href="https://www.linkedin.com/in/codewithesha2002">
-<img src="https://img.shields.io/badge/LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="https://www.instagram.com/i__hype__in/">
-<img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram" />
-</a>
-<a href="https://x.com/codewithesha">
-<img src="https://img.shields.io/badge/Twitter-FFC0CB?style=for-the-badge&logo=twitter" />
-</a>
+  <a href="https://github.com/codewithesha2002-design">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" style="margin: 0 12px;" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/codewithesha2002">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" style="margin: 0 12px;" />
+  </a>
+
+  <a href="https://www.instagram.com/i__hype__in/">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="30" style="margin: 0 12px;" />
+  </a>
+
+  <a href="https://x.com/codewithesha">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png" width="30" style="margin: 0 12px;" />
+  </a>
+
+  <a href="https://wa.me/+91 7807572096">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="30" style="margin: 0 12px;" />
+  </a>
+  <a href="https://leetcode.com/u/ESHA_SHARM2/">
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="30" style="margin: 0 12px;" />
+  </a>
 </p>
 
 ---
 
-## 📊 GitHub Insights
+## 🧠 LeetCode Progress
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=codewithesha2002-design&show_icons=true&theme=transparent" />
-<img src="https://streak-stats.demolab.com?user=codewithesha2002-design&theme=transparent" />
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=unicorn&font=Baloo&ext=heatmap" />
+</p>
+
+---
+
+## 📊 Contribution Dashboard
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithesha2002-design&show_icons=true&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=codewithesha2002-design&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithesha2002-design&theme=github-compact" />
 </p>
 
 ---
