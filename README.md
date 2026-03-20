@@ -111,7 +111,7 @@
       </blockquote>
     </td>
     <td width="30%" align="right">
-      <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220" style="border-radius: 15px;"/>
+      <img src="<img width="660" height="666" alt="image" src="https://github.com/user-attachments/assets/99d5f022-2532-4081-afd1-a9462c59f030" />" width="220" style="border-radius: 15px;"/>
     </td>
   </tr>
 </table>
