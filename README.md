@@ -111,10 +111,22 @@
 
 ## 🐱 Coding Companion
 
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250"/>
-</p>
+<table>
+  <tr>
+    <td width="70%">
+      <p>
+      I approach my work with a strong sense of ownership and a mindset focused on continuous improvement. For me, writing code is not just about making things work, but about building solutions that are efficient, scalable, and meaningful.
 
+  I value consistency, clean code, and continuous learning. I see challenges as opportunities to grow and I’m always open to feedback and improvement.
+
+  I believe in teamwork, but I’m also self-driven and take initiative when needed. My focus is always on long-term growth and delivering better results every day.
+      </p>
+    </td>
+    <td width="30%" align="right">
+      <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250"/>
+    </td>
+  </tr>
+</table>
 ---
 
 ## ✨ Mindset
