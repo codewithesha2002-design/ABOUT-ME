@@ -19,7 +19,7 @@
 🌱 Learning Go & backend scalability to move beyond basic CRUD <br/><br/>
 
 💬 Ask me about React, Node.js, MySQL, APIs <br/>
-⚡ Fun fact: I turn ☕ into clean, working code
+⚡ Fun fact: I turn ☕ into clean, working </code>
 </p>
 
 ---
@@ -46,7 +46,10 @@
 ## 🐍 Contribution Flow
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codewithesha2002-design/codewithesha2002-design/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <p> THANK YOU FOR YOUR TIME AND VISIT</p>    <td width="50%" align="left">
+
+  <img src="https://octodex.github.com/images/puddle_jumper_octodex.jpg" alt="hooo..." />    <td width="#" align="right">
+
 </p>
 
 ---
@@ -113,7 +116,9 @@
 
 > “The impediment to action advances action. What stands in the way becomes the way.” — **Marcus Aurelius**
 
-💼 **Open for Internship Opportunities** 🚀 **Always Learning, Always Improving** 💖 **Building with Purpose & Grit** ---
+💼 **Open for Internship Opportunities** 
+🚀 **Always Learning, Always Improving**
+💖 **Building with Purpose & Grit** ---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F8A5C2&height=100&section=footer"/>
