@@ -138,11 +138,9 @@
     </td>
   </tr>
 </table>
-
-<p align="center" style="font-family: monospace; letter-spacing: 2px; margin-top: 20px;">
+<p align="left">
+  <img src="<img width="896" height="896" alt="image" src="https://github.com/user-attachments/assets/a7d98d1d-e97c-4616-9775-b54903fd670b"/>" &height=100&section=footer"/>
+<p align="right" style="font-family: monospace; letter-spacing: 2px; margin-top: 20px;">
   ─── ⋆⋅☆⋅⋆ <b>THANK YOU FOR YOUR TIME</b> ⋆⋅☆⋅⋆ ───
 </p>
-
-<p align="center">
-  <img src="<img width="896" height="896" alt="image" src="https://github.com/user-attachments/assets/a7d98d1d-e97c-4616-9775-b54903fd670b" />" &height=100&section=footer"/>
 </p>
