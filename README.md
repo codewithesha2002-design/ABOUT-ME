@@ -17,7 +17,10 @@
     <td width="65%" style="vertical-align: top; padding-right: 20px;">
       <h2 style="color: #F8A5C2; font-family: sans-serif;">👋 Hey there! I'm Esha</h2>
       <p style="font-size: 1.1rem; line-height: 1.6; font-family: sans-serif;">
-        🚀 <b>The Mission:</b> I am a Software Engineering student dedicated to building systems that solve real-world problems. From architecting <b>Go-based backends</b> to exploring the frontiers of <b>AI/ML</b>, I thrive at the intersection of logic and creativity.
+        🚀 <b>The Mission:</b> I am a Software Engineering student dedicated to building systems that solve real-world problems.
+        From architecting <b>Go-based backends</b>
+        to exploring the frontiers of <b>AI/ML</b>, 
+        I thrive at the intersection of logic and creativity.
       </p>
       <p style="font-size: 1.05rem; line-height: 1.6; font-family: sans-serif;">
         💻 <b>Full-Stack:</b> Building React/Node.js apps that scale. <br/>
