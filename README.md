@@ -93,8 +93,27 @@
 </p>
 ---
 
-##<b>📊 Performance & Contributions</b>
+<div align="center">
+  <h2 style="
+    display: inline-block;
+    color: #FFD700; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    font-size: 2.2rem; 
+    border-bottom: 2px solid #FFD700; 
+    padding-bottom: 10px;
+    letter-spacing: 1px;
+    text-shadow: 0 0 10px rgba(255, 215, 0, 0.3);
+  ">
+    📊 Performance & Contributions
+  </h2>
+</div>
 
+<p align="center">
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithesha2002-design&show_icons=true&theme=transparent&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=0d1117&hide_border=true" width="48%" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithesha2002-design&layout=compact&theme=transparent&title_color=FFD700&text_color=ffffff&bg_color=0d1117&hide_border=true" width="48%" />
+</p>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=codewithesha2002-design&show_icons=true&theme=transparent&title_color=F8A5C2&icon_color=F8A5C2&text_color=ffffff&bg_color=0d1117&hide_border=true&count_private=true" width="48%" />
