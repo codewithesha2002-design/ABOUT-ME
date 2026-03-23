@@ -75,7 +75,6 @@
 ---
 
 <p align="center">
-  <p align="left">
   <a href="https://x.com/codewithesha" target="blank">
     <img src="https://skillicons.dev/icons?i=twitter" alt="codewithesha" height="30" width="40" />
   </a>
