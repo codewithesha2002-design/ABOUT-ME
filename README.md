@@ -93,6 +93,9 @@
   <a href="https://leetcode.com/u/ESHA_SHARM5/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40" />
 </a>
+  <a href="https://stackoverflow.com/users/32440164/kanika-sharma" target="_blank">
+  <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
+</a>
 </p>
 ---
 
