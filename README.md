@@ -143,7 +143,7 @@
 
 ## 📊 My Development Dashboard
 
-<p align="left">
+<p align="left" width=48%>
   <img src="https://leetcard.jacoblin.cool/ESHA_SHARM5?theme=dark&border=2&radius=10" />
 </p>
 </p>
