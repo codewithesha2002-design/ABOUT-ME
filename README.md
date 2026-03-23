@@ -75,6 +75,11 @@
 ---
 
 <p align="center">
+  <p align="left">
+  <a href="https://x.com/codewithesha" target="blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="codewithesha" height="30" width="40" />
+  </a>
+  </p>
   <a href="https://github.com/codewithesha2002-design" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=github" height="45" alt="github" />
   </a>
