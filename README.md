@@ -74,30 +74,36 @@
 ##🌐 Connect With Me
 ---
 
+<h3 align="center">🌐 Connect With Me</h3>
+
 <p align="center">
   <a href="https://github.com/codewithesha2002-design" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="45" alt="github" />
+    <img src="https://skillicons.dev/icons?i=github" height="45" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/codewithesha2002" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/i__hype__in/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="45" alt="instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="45" />
   </a>
   &nbsp;&nbsp;
   <a href="https://x.com/codewithesha" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="45" alt="twitter" />
+    <img src="https://skillicons.dev/icons?i=twitter" height="45" />
   </a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/u/ESHA_SHARM5/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="45" alt="leetcode" />
+    <img src="https://skillicons.dev/icons?i=leetcode" height="45" />
   </a>
-<a href="https://stackoverflow.com/users/32440164/kanika-sharma" target="_blank">
-  <img src="https://img.shields.io/badge/Stack_Overflow-FFD700?style=for-the-badge&logo=stack-overflow&logoColor=black" alt="Stack Overflow Gold" />
-</a>
 </p>
+
+<p align="center">
+  <a href="https://stackoverflow.com/users/32440164/kanika-sharma" target="_blank">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+  </a>
+</p>>
+
 ---
 
 <div align="center">
