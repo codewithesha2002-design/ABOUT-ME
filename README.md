@@ -90,6 +90,9 @@
   <a href="https://x.com/codewithesha" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=twitter" height="45" alt="twitter" />
   </a>
+  <a href="https://leetcode.com/u/ESHA_SHARM5/">
+  <img src="https://leetcard.jacoblin.cool/ESHA_SHARM5?theme=dark&font=Istok%20Web&ext=contest" alt="ESHA_SHARM5's LeetCode Stats" />
+</a>
 </p>
 ---
 
