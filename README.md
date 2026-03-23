@@ -73,9 +73,6 @@
 
 ##🌐 Connect With Me
 ---
-
-<h3 align="center">🌐 Connect With Me</h3>
-
 <p align="center">
   <a href="https://github.com/codewithesha2002-design" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="45" />
@@ -97,9 +94,7 @@
     <img src="https://skillicons.dev/icons?i=leetcode" height="45" />
   </a>
 </p>
-
-<p align="center">
-  <a href="https://stackoverflow.com/users/32440164/kanika-sharma" target="_blank">
+<a href="https://stackoverflow.com/users/32440164/kanika-sharma" target="_blank">
     <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
   </a>
 </p>>
