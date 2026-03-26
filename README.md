@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F8A5C2&height=100&section=header"/>
-  <h1 align="center">Hi 👋, I'm Esha</h1><br></br>
+  <h1 align="center">Hi 👋, I'm Esha</h1>
 <h3 align="center">💻 Full Stack Developer | 🤖 AI/ML Explore</h3>
 
 <p align="center">
