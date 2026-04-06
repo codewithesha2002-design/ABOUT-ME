@@ -56,49 +56,64 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,php,go,git,github,vscode,py,docker" />
 </p>
 
-<div class="quote-container">
-  <p class="quote-text">
-    “Fancy algorithms are slow when <em>n</em> is small, and <em>n</em> is usually small.”
-  </p>
-  <p class="quote-author">
-    — Rob Pike (Co-creator of Go)
-  </p>
-</div>
+---
+===
+<div align="center">
 
-<style>
-.quote-container {
-  max-width: 700px;
-  margin: 40px auto;
-  padding: 25px 30px;
-  background: #0d1117;
+<div style="
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+  flex-wrap: wrap;
+">
+
+<!-- LEFT: QUOTE -->
+<div style="
+  max-width: 420px;
+  padding: 25px 28px;
+  background: linear-gradient(145deg, #0d1117, #161b22);
   border-left: 4px solid #58a6ff;
-  border-radius: 10px;
-  font-family: 'Georgia', serif;
-  box-shadow: 0 10px 25px rgba(0,0,0,0.4);
-}
+  border-radius: 12px;
+  font-family: Georgia, serif;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.6);
+">
 
-.quote-text {
-  font-size: 20px;
-  line-height: 1.7;
+<p style="
+  font-size: 18px;
+  line-height: 1.8;
   color: #c9d1d9;
-  margin-bottom: 15px;
-}
+  margin-bottom: 14px;
+">
 
-.quote-text em {
-  font-style: italic;
-  color: #58a6ff;
-}
+“Fancy algorithms are slow when 
+<em style='color:#58a6ff;'>n</em> is small, and 
+<em style='color:#58a6ff;'>n</em> is usually small.”
 
-.quote-author {
-  font-size: 16px;
+</p>
+
+<p style="
+  font-size: 14px;
   color: #8b949e;
   text-align: right;
   font-style: italic;
-}
-</style>
----
+">
+— Rob Pike (Co-creator of Go)
+</p>
 
+</div>
 
+<!-- RIGHT: IMAGE -->
+<img 
+  src="https://i.pinimg.com/736x/01/07/8c/01078c4a824ea92e1bb3e742ccd6f216.jpg" 
+  width="300" 
+  style="border-radius: 14px; box-shadow: 0 10px 25px rgba(0,0,0,0.6);"
+/>
+
+</div>
+
+</div>
+---------
 <h2 align="center" style="color: #FFD700;">📈 Stats & Activity</h2>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithesha2002-design&theme=tokyonight&hide_border=true" height="170"/>
