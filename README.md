@@ -56,11 +56,46 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,php,go,git,github,vscode,py,docker" />
 </p>
 
-<p align="center" style="background-color: #161b22; padding: 15px; border-radius: 10px; border-left: 5px solid #F8A5C2; font-style: italic;">
-  “Fancy algorithms are slow when $n$ is small, and $n$ is usually small.” <br>
-  <span style="color: #8b949e;">— Rob Pike (Co-creator of Go)</span>
-</p>
+<div class="quote-container">
+  <p class="quote-text">
+    “Fancy algorithms are slow when <em>n</em> is small, and <em>n</em> is usually small.”
+  </p>
+  <p class="quote-author">
+    — Rob Pike (Co-creator of Go)
+  </p>
+</div>
 
+<style>
+.quote-container {
+  max-width: 700px;
+  margin: 40px auto;
+  padding: 25px 30px;
+  background: #0d1117;
+  border-left: 4px solid #58a6ff;
+  border-radius: 10px;
+  font-family: 'Georgia', serif;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.4);
+}
+
+.quote-text {
+  font-size: 20px;
+  line-height: 1.7;
+  color: #c9d1d9;
+  margin-bottom: 15px;
+}
+
+.quote-text em {
+  font-style: italic;
+  color: #58a6ff;
+}
+
+.quote-author {
+  font-size: 16px;
+  color: #8b949e;
+  text-align: right;
+  font-style: italic;
+}
+</style>
 ---
 
 
