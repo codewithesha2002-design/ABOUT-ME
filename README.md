@@ -23,7 +23,7 @@
     <a href="https://x.com/codewithesha"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   </p>
 </div>
-<div align="center">
+<div align="justify">
   <h2 style="border-bottom: none;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F8A5C2&center=true&vCenter=true&width=500&lines=System.out.println(%22Hello+World!%22);I'm+Esha+--+The+Problem+Solver;Building+Scalable+Architectures" alt="Typing Intro" />
   </h2>
