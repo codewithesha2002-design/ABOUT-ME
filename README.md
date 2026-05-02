@@ -44,7 +44,7 @@ color=F78DA7&center=true&vCenter=true&lines=Building+Real+World+Projects;Full+St
       </ul>
     </td>
     <td width="40%" align="center" style="padding: 20px;">
-      <img src="https://i.pinimg.com/736x/63/80/63/63806371551213363545014b064ae189.jpg" width="280" style="border-radius: 50% 20% 50% 20%; border: 3px solid #F8A5C2; padding: 5px;" />
+      <img src="https://i.pinimg.com/736x/01/07/8c/01078c4a824ea92e1bb3e742ccd6f216.jpg" width="280" style="border-radius: 50% 20% 50% 20%; border: 3px solid #F8A5C2; padding: 5px;" />
     </td>
   </tr>
 </table>
@@ -100,18 +100,6 @@ color=F78DA7&center=true&vCenter=true&lines=Building+Real+World+Projects;Full+St
 ">
 — Rob Pike (Co-creator of Go)
 </p>
-
-</div>
-
-<!-- RIGHT: IMAGE -->
-<img 
-  src="https://i.pinimg.com/736x/01/07/8c/01078c4a824ea92e1bb3e742ccd6f216.jpg" 
-  width="300" 
-  style="border-radius: 14px; box-shadow: 0 10px 25px rgba(0,0,0,0.6);"
-/>
-
-</div>
-
 </div>
 ---------
 <h2 align="center" style="color: #FFD700;">📈 Stats & Activity</h2>
