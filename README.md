@@ -22,6 +22,9 @@
     <a href="https://www.linkedin.com/in/codewithesha2002"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://leetcode.com/u/ESHA_SHARM5/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
     <a href="https://x.com/codewithesha"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+    <a href="https://instagram.com/i__hype__in">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
   </p>
 </div>
 <div align="center">
