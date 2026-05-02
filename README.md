@@ -15,7 +15,8 @@
 </p>
 ---
   <h3 style="color: #FFD700; margin-bottom: 20px;">✨ Connect With Me ✨</h3>
-  
+  <div align="center">
+
   <p>
     <a href="https://github.com/codewithesha2002-design"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/codewithesha2002"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -23,7 +24,7 @@
     <a href="https://x.com/codewithesha"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   </p>
 </div>
-<div align="justify">
+<div align="center">
   <h2 style="border-bottom: none;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F8A5C2&center=true&vCenter=true&width=500&lines=System.out.println(%22Hello+World!%22);I'm+Esha+--+The+Problem+Solver;Building+Scalable+Architectures" alt="Typing Intro" />
   </h2>
