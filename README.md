@@ -7,10 +7,12 @@
   <p style="font-size: 1.2em; color: #8b949e;">💻 Full Stack Developer | 🤖 AI/ML Explorer</p>
 </div>
 
-<p align="center"> 
-color=F78DA7&center=true&vCenter=true&lines=Building+Real+World+Projects;Full+Stack+Developer;AI+%2F+ML+Learner;Open+to+Internships" alt="Typing SVG" />
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?color=F78DA7&center=true&vCenter=true&width=600&lines=Building+Real+World+Projects;Full+Stack+Developer;AI%2FML+Learner;Open+to+Internships" 
+    alt="Typing SVG" 
+  />
 </p>
-
 ---
 
 <div align="center">
